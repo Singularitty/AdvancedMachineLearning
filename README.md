@@ -2,7 +2,7 @@
 
 ## Assigments
 
-- Assigment 2 (To devliver)
+- Assigment 2 (To deliver)
 
 ## Project
 
