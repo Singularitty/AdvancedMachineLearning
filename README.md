@@ -2,7 +2,10 @@
 
 ## Assigments
 
-- Assigment 2 (To deliver)
+### Assigment 2
+  - To do:
+    1. Review
+    2. Deliver
 
 ## Project
 
