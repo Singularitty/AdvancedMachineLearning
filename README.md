@@ -1,8 +1,8 @@
 # Advanced Machine Learning
 
-## Assigments
+## Assignments
 
-### Assigment 2 :heavy_check_mark:
+### Assignment 2 :heavy_check_mark:
 
 ## Project
 
