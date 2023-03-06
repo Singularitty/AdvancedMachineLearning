@@ -2,10 +2,7 @@
 
 ## Assigments
 
-### Assigment 2
-  - To do:
-    1. Review
-    2. Deliver
+### Assigment 2 :heavy_check_mark:
 
 ## Project
 
