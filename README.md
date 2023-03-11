@@ -4,6 +4,9 @@
 
 ### Assignment 2 :heavy_check_mark:
 
+### Assigment 3:
+  - To deliver
+
 ## Project
 
-- To do
+- Pick a problem with a large enough dataset
