@@ -4,8 +4,11 @@
 
 ### Assignment 2 :heavy_check_mark:
 
-### Assigment 3:
-  - To deliver
+### Assigment 3: ✔️
+
+### Assignemnt 4:
+  - c)
+  - d)
 
 ## Project
 
