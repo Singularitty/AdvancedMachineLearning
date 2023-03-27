@@ -6,10 +6,11 @@
 
 ### Assigment 3: ✔️
 
-### Assignemnt 4:
-  - c)
-  - d)
+### Assignemnt 4: ✔️
+
+### Assignemnt 5: ✔️
 
 ## Project
 
-- Pick a problem with a large enough dataset
+- Train MLP and GNN classifiers for each vulnerability
+- Experiment with other ML models or MLP architectures
