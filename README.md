@@ -1,16 +1,13 @@
 # Advanced Machine Learning
 
-## Assignments
-
-### Assignment 2 :heavy_check_mark:
-
-### Assigment 3: ✔️
-
-### Assignemnt 4: ✔️
-
-### Assignemnt 5: ✔️
+## Assignments :heavy_check_mark:
 
 ## Project
 
-- Train MLP and GNN classifiers for each vulnerability
-- Experiment with other ML models or MLP architectures
+Data preprocessing is complete, I created two types of datasets for each vulnerability.  
+Since these files are to big for github, I have them saved in the cloud. These must be transfered before working on this project.
+
+To Do:
+- Train MLP and GNN
+- Train other models
+- Write report
